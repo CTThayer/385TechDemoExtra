@@ -1,0 +1,13 @@
+newmtl SM_cliff_01_brown_caveopening
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+d 1.000000
+Tr 0.000000
+map_Kd SM_cliff_01_brown_Base_Color.PNG 
+map_Bump SM_cliff_01_brown_Height.PNG 
+adobe_map_Reflection SM_cliff_01_brown_Reflection.PNG 
+adobe_map_Normal SM_cliff_01_brown_Normal_OpenGL.PNG 
+adobe_map_Shininess SM_cliff_01_brown_Glossiness.PNG 
+
